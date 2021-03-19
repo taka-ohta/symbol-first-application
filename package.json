@@ -1,0 +1,23 @@
+{
+  "name": "symbol-first-application",
+  "version": "1.0.0",
+  "description": "https://docs.symbolplatform.com/ja/getting-started/first-application.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taka-ohta/symbol-first-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taka-ohta/symbol-first-application/issues"
+  },
+  "homepage": "https://github.com/taka-ohta/symbol-first-application#readme",
+  "dependencies": {
+    "rxjs": "^6.6.6",
+    "symbol-sdk": "^1.0.0"
+  }
+}
