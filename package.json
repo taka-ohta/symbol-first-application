@@ -18,6 +18,7 @@
   "homepage": "https://github.com/taka-ohta/symbol-first-application#readme",
   "dependencies": {
     "rxjs": "^6.6.6",
-    "symbol-sdk": "^1.0.0"
+    "symbol-sdk": "^1.0.0",
+    "utf8": "^3.0.0"
   }
 }
